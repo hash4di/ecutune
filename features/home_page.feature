@@ -10,7 +10,7 @@ Feature: Home Page
 
     And I should have selection list Menu
 
-    And I should see Welcome Description "Example Photographer Description"
+    And I should see Welcome Description "Example Welcome-Menu Description"
     And I should see Googlemaps external Image
 
     And I should see Footer
